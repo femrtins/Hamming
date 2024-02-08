@@ -1,8 +1,8 @@
 import math, os
 '''
-Alunas: Crislanne Letícia Leal de Aviz
-        Gabrielli Danker
+Alunas: Crislanne Letícia Leal de Aviz        
         Fernanda Ribeiro Martins
+        Gabrielli Danker
         Monique Ellen dos Santos
 '''
 
